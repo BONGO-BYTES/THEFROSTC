@@ -15,6 +15,7 @@ Hello! I'm **James Majura**, a Bachelor of Computer Science (BCS) student at the
 
 ### 🎯 Interests  
 I am particularly interested in:  
+- Ethical Hacking
 - Software Development  
 - Web Technologies  
 - Problem Solving  
@@ -25,9 +26,7 @@ Currently, I'm focusing on enhancing my skills in **C programming** while deepen
 
 ### 📫 Contact  
 Feel free to reach out to me for collaboration or discussions about technology:  
-- **Email:** [Your Email Here]  
-- **LinkedIn:** [Your LinkedIn Here]  
-- **GitHub:** [Your GitHub Profile Here]  
+- **Email:** jamesfmajura@gmail.com  
 
 ---
 
